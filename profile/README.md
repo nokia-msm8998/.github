@@ -23,4 +23,4 @@ Officially supported devices are now live in LineageOS. Check [LineageOS wiki](h
 | Nokia 6.2                | `SLD`    | Longcheer       | Working in progress.                                         |
 | Nokia X71                | `TAS`    | FIH Mobile      | Not yet.                                                     |
 
-If you have the device listed here and want to test something, or help us on getting LineageOS official for it, open an issue! It might take a few days for us to respond.
+If you have the device listed here and want to test something, or help us get LineageOS official for it, open an issue in the device repository! It might take a few days for us to respond.
